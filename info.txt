@@ -1,0 +1,122 @@
+1. Todo List Manager
+
+A Todo List Manager allows users to create and organize daily tasks. This project is useful for learning CRUD operations, user input handling, and data storage.
+Key Features:
+
+    Allow users to add tasks with tiles and checkboxes along with an optional description
+    Checkbox or Button to mark a task as completed
+    Option to delete task added by users
+    View tasks in list format for ease of reading
+    Pinning task priority vise
+    Set task board color priority vise
+    Provide login options so users can access data from different machines
+
+    
+2. Standard Calculator
+
+A calculator is a simple beginner project for understanding methods, operators, conditional statements, and user input.
+Key Features:
+
+    Basic arithmetic operations: addition, subtraction, multiplication, division.
+    Floating number support - allows users to enter decimal numbers
+    Reset Button to clear all calculations and allow the user to complete new calculations
+    Error handing for invalid inputs and division by zero errors
+    User friendly UI/UX
+
+3. Weather App
+
+A Weather App retrieves weather information from an external API and displays it according to the location entered by the user. It introduces API requests, JSON processing, and error handling.
+Key Features:
+
+    Fetch weather data from the API
+    Display current weather conditions
+    Options to search for weather locations
+    Error handling for API failure
+    Animations to display on UI to represent the weather
+    Automatic/Manual refresh option to fetch the latest data
+
+4. Tic-Tac-Toe Game
+
+Building Tic-Tac-Toe helps beginners practice conditional logic, arrays, methods, and game-state management.
+Key Features:
+
+    Visual representation of the game board
+    Two-player mode where two players can play against each other
+    Single-player mode where another player will system itself
+    Store the winner's information to track the winner's history
+    Option to restart the game
+    Animations to play when users win games
+    Leaderboard to check other users' timing of winning
+
+5. Expense Tracker
+
+An Expense Tracker allows users to record and analyze their daily expenses. It provides practice with CRUD operations, databases, filtering, and data visualization.
+Key Features:
+
+    Add expense information such as date, amount, and descriptions
+    View monthly and yearly expense summary category-wise
+    Edit and Delete provisions for existing expenses
+    Store data in a local database
+    Search and Filter options
+    Graphical representation of expenses
+
+6. Address Book
+
+An Address Book stores and manages contact information such as names, phone numbers, and email addresses. This project helps practice collections, searching, sorting, and CRUD operations.
+Key Features:
+
+    Store contact information such as name, email, number, etc.
+    Search contact using name and email
+    Edit and Delete existing contact
+    Merge contacts with the same name
+    Allow multiple phone numbers with the same name
+    Export the current contact list and import existing contacts.
+    Alphabetical sorting of contacts
+
+7. Simple Chat App
+
+A Chat App introduces beginners to real-time communication, event-driven programming, authentication, and networking concepts.
+Key Features:
+
+    Real-time messaging among multiple users
+    Display online and offline user status
+    User authentications
+    Display message status such as delivered and read by the receiver
+    Notification implementation to notify users about new messages
+    Ability to create chat rooms
+
+8. Quiz App
+
+A Quiz App presents questions to users, evaluates their answers, and calculates scores. It helps practice collections, validation, timers, and UI development.
+Key Features:
+
+    Multiple-choice questions on various topics
+    Randomize the question sequence of the quiz
+    Display score based on answer submitted
+    Feedback on correct/incorrect answers
+    View the result of the submitted quiz
+    Utilize image rendering library
+    Timer functionality to attempt each question
+
+9. Recipe Manager
+
+A Recipe Manager allows users to create, organize, search, and manage recipes. It provides experience with CRUD operations, collections, databases, and user-generated content.
+Key Features:
+
+    Add recipes with ingredients and other details such as images and photos
+    Categories recipes list with category-wise
+    Search recipes with names or ingredients
+    Edit and Delete existing recipes
+    Ability to rate, review, and share recipes
+
+10. Blogging Platform
+
+A Blogging Platform is a more advanced beginner project that introduces authentication, CRUD operations, databases, pagination, and content management.
+Key Features:
+
+    User authentication
+    User post management including add, delete view, and edit
+    Complex UI designs to display posts likes, and comments of users
+    Notification management
+    Pagination Implementation for smooth UI experience
+    Like, comment, and tagging of posts
